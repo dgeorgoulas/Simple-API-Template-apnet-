@@ -49,16 +49,16 @@ You can test the API endpoints using the following methods:
 
 Here are some screenshots demonstrating the CRUD operations:
 
-![Create Artist](screenshots/PostSwagger.png)
+![Create Artist](PostSwagger.png)
 *Screenshot: Creating a new artist.*
 
-![Read Artists](screenshots/GETPostman.png)
+![Read Artists](GETPostman.png)
 *Screenshot: Retrieving a list of artists.*
 
-![Update Artist](screenshots/PUTSwagger.png)
+![Update Artist](PUTSwagger.png)
 *Screenshot: Updating artist information.*
 
-![Delete Artist](screenshots/GETPostman2.png)
+![Delete Artist](GETPostman2.png)
 *Screenshot: Deleting an artist.*
 
 ## Data Storage
